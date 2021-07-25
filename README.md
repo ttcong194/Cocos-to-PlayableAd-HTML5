@@ -19,3 +19,8 @@ Instructions:
 2. Copy **build-templates** and **html_generator** folders to your project folder
 3. Open terminal/cmd on html_generator folder
 4. Run 'python3 generate_single_html.py True' command to generate index.html
+
+
+References:
+[1]: http://www.mrsep18.com/2019/07/24/create-facebook-playable-ads-with-cocos-creator/
+[2]: https://github.com/fkworld/cocos-to-playable-ad
