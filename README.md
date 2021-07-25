@@ -13,6 +13,7 @@ Requirement:
 Instructions:
 
 1. Create your project and choose build setting like that
+
 ![BuildSetting](./build.png)
 
 2. Copy **build-templates** and **html_generator** folders to your project folder
