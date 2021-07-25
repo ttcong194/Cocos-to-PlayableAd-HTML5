@@ -23,4 +23,5 @@ Instructions:
 
 References:
 [1]: http://www.mrsep18.com/2019/07/24/create-facebook-playable-ads-with-cocos-creator/
+
 [2]: https://github.com/fkworld/cocos-to-playable-ad
